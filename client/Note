@@ -1,0 +1,12 @@
+//!SECTION Accourding to this table:
+
+Wei = 10^0 Wei
+Ada = 10^3 Wei
+Babbage = 10^6 Wei
+Shannon = 10^9 Wei
+Szabo = 10^12 Wei
+Finney = 10^15 Wei
+Ether = 10^18 Wei
+1 Ether is 1^18 = 1000000000000000000 Wei.
+
+1 Wei is 0.000000000000000001 Ether.
